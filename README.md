@@ -1,8 +1,6 @@
 # PokemonCliApp
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Pokemon_cli_app`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to Pokemon CLI App. This gem is a command line pokedex that will allow you to list all of the pokemon in generations one through four and view base stats about each pokemon.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+When you run the app you will be prompoted with a menu follow the prompts to veiw pokemon by generation or veiw all the pokemon in the first four generations you will then hit another menu where you can select a pokemon from the list by entering the corrisponding number into your terminal. When you select a pokemon the base stats for that pokemon will be displayed and you will be able to navigate to another generation and veiw another pokemon.
 
 ## Development
 
